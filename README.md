@@ -10,7 +10,7 @@ LoggerDemo.test
 
 Output
 ```
-[info] LoggerDemo.test 
+14:23:06 [info] LoggerDemo.test 
         Demo
         Basic
 14:23:06 [debug] LoggerDemo.test 
