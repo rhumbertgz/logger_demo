@@ -13,6 +13,5 @@ defmodule LoggerDemo do
 
     Logger.error "Demo"
     Logger.error "Basic" , output: :inner
-
   end
 end

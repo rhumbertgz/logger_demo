@@ -31,4 +31,4 @@ use Mix.Config
 
 config :logger, :console,
   format: {ConsoleLogger, :format},
-  metadata: [:module, :function, :output]
+  metadata: [:module, :function, :output] # :output is a custom metadata, I use it to print inner messages
