@@ -5,7 +5,11 @@
 ## Usage
 
 ```elixir
-$ LoggerDemo.test
+LoggerDemo.test
+```
+
+Output
+```
 [info] LoggerDemo.test 
         Demo
         Basic
@@ -15,6 +19,7 @@ $ LoggerDemo.test
 14:23:06 [error] LoggerDemo.test 
         Demo
         Basic
-:ok        
+:ok   
 ```
+
 
